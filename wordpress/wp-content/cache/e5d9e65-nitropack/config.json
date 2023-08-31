@@ -1,0 +1,34 @@
+{
+    "localhost\/Affinity_Games_Hub\/wordpress": {
+        "siteId": "yNnqoYmrUKxTFjwidiWMpbNDJnlUlOcR",
+        "siteSecret": "YYrefHCvnqr6zjmoXP88eCqupDPP6UoogKqLTAqgr45AdPIp4FEvxNod6ntrItQA",
+        "blogId": 1,
+        "compression": true,
+        "webhookToken": "bf01a118077beec24bb57ad301c30133",
+        "home_url": "http:\/\/localhost\/Affinity_Games_Hub\/wordpress",
+        "admin_url": "http:\/\/localhost\/Affinity_Games_Hub\/wordpress\/wp-admin\/",
+        "hosting": "unknown",
+        "alwaysBuffer": true,
+        "isEzoicActive": false,
+        "isApoActive": false,
+        "isNginxHelperActive": false,
+        "isLateIntegrationInitRequired": false,
+        "isDlmActive": false,
+        "isWoocommerceCacheHandlerActive": false,
+        "isWoocommerceActive": false,
+        "isAeliaCurrencySwitcherActive": false,
+        "isGeoTargetingWPActive": false,
+        "dlm_downloading_url": null,
+        "dlm_download_endpoint": null,
+        "pluginVersion": "1.8.3",
+        "options_cache": {
+            "cache_handler_cache_handler": false,
+            "woocommerce_default_customer_address": false,
+            "wc_aelia_currency_switcher": {
+                "ipgeolocation_enabled": null
+            }
+        },
+        "additional_domains": []
+    },
+    "config_path": "2ce0d36fc0021f97a92233962f7050df"
+}
